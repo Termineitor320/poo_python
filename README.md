@@ -57,4 +57,17 @@ class```:palabra reservada en python para definir una clase.
     - puedes definir tantos metodos como necesites  
     - puedes definir tantos parametro en el constructor como necesites  
 
+## composicion
+- consiste en la creacion de nuevas clases a partir de otras clases ya existentes que actuan como elementos compositores de la nuevas
+- las clases existentes seran atributos de la nueva clase
+- en poo la composicion significa que existe una relacion tiene un.
+    -  una cordenada en dos dimenciones esta compuesta por dos valores, el valor del eje x y el valor de las y, esto podria ser una calase un cuadro esta compuesto por coordenadas que son los cuatro vertices, esto  podria ser que una clase esta compuesta por cuatro clases del objeto cordenada.
+
+
+
+
+
+
+
+
 
